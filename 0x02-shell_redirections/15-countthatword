@@ -1,0 +1,2 @@
+#!/bin/bash
+gtep -c -i "bin"/etc/passwd
