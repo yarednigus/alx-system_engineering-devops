@@ -1,2 +1,2 @@
 #!/bin/bash
-read input_string && echo "$(echo $input_string | tr -d 'cC')"
+tr -d 'cC'
